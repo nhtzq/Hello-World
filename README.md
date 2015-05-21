@@ -1,8 +1,10 @@
 #Hello-World
-#My first repository on GitHub.
+=
 
-#This man is way too lazy.
+My first repository on GitHub!
 
-I love :coffee: :basketball: :woman:. 
+This man is way too lazy.
 
-That is it.
+I love :coffee:, :basketball: and :woman:. 
+
+That's it.
